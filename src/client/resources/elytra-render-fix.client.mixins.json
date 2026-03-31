@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.quarxy.mixin.client",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"EquipmentLayerRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"mixinextras": {
+		"minVersion": "0.5.3"
+	}
+}
